@@ -2,3 +2,4 @@ Nama provinsi di Indonesia
 1. Sulawesi Tenggara
 2. NTB
 3. Papua
+4. Kalimantan Selatan
