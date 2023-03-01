@@ -2,3 +2,4 @@ Nama kota di Indonesia
 1. Aceh
 2. Palembang
 3. Bengkulu
+4. Medan
