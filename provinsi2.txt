@@ -2,3 +2,4 @@ Nama provinsi di Indonesia
 1. Sumatera Selatan
 2. DKI Jakarta
 3. Bali
+4. Jawa Tengah
